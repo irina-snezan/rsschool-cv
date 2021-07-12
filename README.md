@@ -1,1 +1,1 @@
-githttps://irina-snezan.github.io/rsschool-cv/
+https://irina-snezan.github.io/rsschool-cv/

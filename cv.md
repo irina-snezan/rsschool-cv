@@ -41,9 +41,11 @@ German -  _elementary_
                      
 **2018-2020** | **School of Business of BSU**, web design and computer graphics
  
-### WORK EXPERIENCE
+ ### WORK EXPERIENCE
  
+**2015-2021**
  
+Educational institution Minsk State Vocational Lyceum No. 10 of Construction, _teacher of general humanities_
 ### PERSONAL CHARACTERISTICS
  
 * Self-motivated

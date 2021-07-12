@@ -23,7 +23,7 @@ I want to obtain a position as a frontend developer (Junior).
  
 ### SKILLS  
   HTML, CSS,JS, MySQL, Joomla, WordPress,Adobe Photoshop, 
- Corel DRAW, 3D MAX,  UI/UX
+ Corel DRAW, 3D MAX,  UI/UX, Git
  
 ### LANGUAGE  
   

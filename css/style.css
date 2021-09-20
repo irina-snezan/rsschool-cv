@@ -2,96 +2,135 @@
 	width: 100wv;
 	color: #656c76;
 }
+
 .wrapper {
 	width: 1280px;
 	margin: 30px auto;
 	border: 1px solid #ccc;
 }
+
 .wrap {
 	display: flex;
 }
+
 aside {
-	background-color: #f4f4f4;
 	width: 30%;
 	padding: 20px;
+	background-color: #f4f4f4;
 }
+
 aside h3 {
 	padding: 50px 20px 40px 20px;
 }
+
 main {
 	width: 70%;
 	padding: 10px 30px;
 }
+
 main h3 {
 	padding: 8px;
 	margin-top: 40px;
 }
+
 .personal {
 	font-family: Constantia;
 	text-align: center;
 	color: #512b58;
 }
+
 .personal p {
 	font-size: 35px;
 }
+
 .personal img {
 	max-width: 65%;
-	border-radius: 50%;
 	padding: 30px;
+	border-radius: 50%;
 }
+
 h1 {
+	padding-bottom: 20px;
 	font-size: 45px;
 	text-transform: uppercase;
-	padding-bottom: 20px;
 }
+
 h3 {
-	text-transform: uppercase;
 	font-family: Tahoma;
-	color: #6983aa;
 	font-size: 35px;
 	text-align: center;
+	text-transform: uppercase;
+	color: #6983aa;	
 }
+
 .line {
-	border-bottom: 5px solid #8ec6c5;
 	width: 50%;
 	margin: 0 auto;
 	margin-bottom: 20px;
+	border-bottom: 5px solid #8ec6c5;
 }
-.personal-info p {
-	font-size: 20px;
-	line-height: 1.5;
-}
+
 .skills {
 	font-size: 24px;
 	line-height: 1.5;
 }
+
 main p {
 	font-size: 24px;
 	line-height: 1.5;
 }
+
 .links li {
 	font-size: 24px;
 	padding-bottom: 20px;
 }
+
+main a {
+	display: block;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #512b58; 
+}
+
+main a:hover {
+	color: #6983aa; 
+}
+
 .links a,
 footer a {
 	color: #222;
 	cursor: pointer;
 	text-decoration: none;
 }
+
 .links a:hover,
 footer a:hover {
 	color: #8566aa;
 }
+
+.cert {
+	display:flex;
+	flex-direction:row;
+	align-items:baseline;
+}
+
+.cert a {
+	font-size: 24px;
+}
+
 footer {
 	background-color: #8ec6c5;
 	padding: 30px;
 }
+
 footer ul {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
 }
+
 footer li {
 	padding-right: 60px;
 	font-size: 30px;
